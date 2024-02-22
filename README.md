@@ -1,0 +1,1 @@
+# loopia-homeassistant-resolver
