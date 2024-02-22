@@ -6,11 +6,11 @@ This project is a Flask application that updates the dynamic DNS records for a l
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dyndns-update.git
+    git clone https://github.com/swetoast/smartresolver.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd dyndns-update
+    cd smartresolver
     ```
 3. Install the required Python packages:
     ```bash
