@@ -28,7 +28,7 @@ This project is a Flask application that updates the dynamic DNS records for a l
 
 1. Start the application:
     ```bash
-    python app.py
+    python smartresolver.py
     ```
 2. The application will now update your dynamic DNS records whenever you access `http://IP_ADDRESS:PORT/update_dyndns`.
 
