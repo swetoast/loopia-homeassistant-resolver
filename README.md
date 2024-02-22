@@ -14,7 +14,7 @@ This project is a Flask application that updates the dynamic DNS records for a l
     ```
 3. Install the required Python packages:
     ```bash
-    pip install Flask requests configparser
+    pip install flask requests configparser
     ```
 
 ## Configuration
